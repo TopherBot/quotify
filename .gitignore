@@ -1,0 +1,11 @@
+# Binaries
+quotify
+
+# Build output
+/dist
+
+# Go modules
+/go.sum
+
+# OS generated files
+.DS_Store
